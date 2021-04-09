@@ -1,0 +1,118 @@
+nav ul a,
+nav .brand-logo {
+  color: #444;
+}
+
+.btn {
+ margin: 0.5rem;
+}
+
+h1, h4, h5 {
+  font-family: 'Fraunces', serif;
+}
+
+p, a, li {
+  font-family: 'Roboto', sans-serif;
+}
+
+.bannerTextBg{
+  background-color: rgba(0, 0, 0, 0.637);
+  border-radius: 3px;
+  padding: 5rem 0;
+}
+
+#darkenOverlay {
+  filter: brightness(0.4);
+}
+
+p {
+  line-height: 2rem;
+}
+
+.sidenav-trigger {
+  color: #26a69a;
+}
+
+.parallax-container {
+  min-height: 380px;
+  line-height: 0;
+  height: auto;
+  color: rgba(255,255,255,.9);
+}
+  .parallax-container .section {
+    width: 100%;
+  }
+
+@media only screen and (max-width : 2560px) {
+  .parallax-container .section {
+    position: absolute;
+    top: 40%;
+  }
+  #index-banner .section {
+    top: 10%;
+  }
+  #imageLogo{
+    margin: 0.8rem 0 0 0;
+  }
+  .projectCards {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+.cardPosition {
+    margin-right: auto;
+    margin-left: auto;
+  }
+  
+}
+
+@media only screen and (max-width : 992) {
+  .projectCards {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .cardPosition {
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
+
+@media only screen and (max-width : 400px) {
+  #imageLogo{
+    margin: auto;
+  }
+}
+
+@media only screen and (max-width : 600px) {
+  #index-banner .section {
+    top: 0;
+  }
+  #imageLogo{
+    margin: 0.6rem 0 0 0;
+  }
+    .projectCards {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .cardPosition {
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+
+
+  
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+footer.page-footer {
+  margin: 0;
+}
