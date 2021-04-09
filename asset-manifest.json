@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio_refactor/static/css/main.229d0cf6.chunk.css",
+    "main.js": "/portfolio_refactor/static/js/main.7dcca0cd.chunk.js",
+    "main.js.map": "/portfolio_refactor/static/js/main.7dcca0cd.chunk.js.map",
+    "runtime-main.js": "/portfolio_refactor/static/js/runtime-main.116912e7.js",
+    "runtime-main.js.map": "/portfolio_refactor/static/js/runtime-main.116912e7.js.map",
+    "static/js/2.e962253e.chunk.js": "/portfolio_refactor/static/js/2.e962253e.chunk.js",
+    "static/js/2.e962253e.chunk.js.map": "/portfolio_refactor/static/js/2.e962253e.chunk.js.map",
+    "static/js/3.05a64c0c.chunk.js": "/portfolio_refactor/static/js/3.05a64c0c.chunk.js",
+    "static/js/3.05a64c0c.chunk.js.map": "/portfolio_refactor/static/js/3.05a64c0c.chunk.js.map",
+    "index.html": "/portfolio_refactor/index.html",
+    "static/css/main.229d0cf6.chunk.css.map": "/portfolio_refactor/static/css/main.229d0cf6.chunk.css.map",
+    "static/js/2.e962253e.chunk.js.LICENSE.txt": "/portfolio_refactor/static/js/2.e962253e.chunk.js.LICENSE.txt",
+    "static/media/Code_Quiz.ed638b94.jpg": "/portfolio_refactor/static/media/Code_Quiz.ed638b94.jpg",
+    "static/media/Whataburger.7d85db18.jpg": "/portfolio_refactor/static/media/Whataburger.7d85db18.jpg",
+    "static/media/cooking_with_sass.0dab0e70.jpg": "/portfolio_refactor/static/media/cooking_with_sass.0dab0e70.jpg",
+    "static/media/logo.9608ea0b.svg": "/portfolio_refactor/static/media/logo.9608ea0b.svg",
+    "static/media/planning.9aefd4c0.jpg": "/portfolio_refactor/static/media/planning.9aefd4c0.jpg",
+    "static/media/teamwork.3c30c694.jpg": "/portfolio_refactor/static/media/teamwork.3c30c694.jpg",
+    "static/media/tools.d625b147.jpg": "/portfolio_refactor/static/media/tools.d625b147.jpg",
+    "static/media/weathermap.94cea715.jpg": "/portfolio_refactor/static/media/weathermap.94cea715.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.116912e7.js",
+    "static/js/2.e962253e.chunk.js",
+    "static/css/main.229d0cf6.chunk.css",
+    "static/js/main.7dcca0cd.chunk.js"
+  ]
+}
