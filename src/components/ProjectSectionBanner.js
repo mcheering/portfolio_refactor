@@ -12,7 +12,7 @@ function ProjectSectionBanner() {
                               </div>
                         </div>
                   </div>
-                  <div className="parallax"><img src={teamworkBackground} alt="image showing teamwork"
+                  <div className="parallax"><img src={teamworkBackground} alt="showing teamwork"
                         styles="background-size: 100%;" id="darkenOverlay" /></div>
             </div>
       )

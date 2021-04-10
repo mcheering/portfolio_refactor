@@ -33,7 +33,7 @@ function BackgroundSection() {
 
                               <div className="col s12 m4">
                                     <div className="icon-block">
-                                          <h2 className="center teal-text"><i class="material-icons">code</i></h2>
+                                          <h2 className="center teal-text"><i className="material-icons">code</i></h2>
                                           <h5 className="center">Software Engineer</h5>
                                           <p className="light">I can build secure server side applications that meet your needs.
                                     </p>

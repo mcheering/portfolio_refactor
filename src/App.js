@@ -1,5 +1,5 @@
 import './App.css'
-import Navbar from './components/Navbar'
+import Header from './components/Header'
 import Jumbotron from './components/Jumbotron'
 import BackgroundSection from './components/BackgroundInfoSection'
 import ProjectSectionBanner from './components/ProjectSectionBanner'
@@ -12,7 +12,7 @@ import 'materialize-css';
 function App() {
   return (
     <div className='App'>
-      <Navbar />
+      <Header />
       <Jumbotron />
       <BackgroundSection />
       <ProjectSectionBanner />
