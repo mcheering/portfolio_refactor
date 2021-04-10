@@ -2,7 +2,7 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React from 'react'
 import Project from './Project'
-import ProjectData from './projectData'
+import ProjectData from '../data/projectData'
 
 function ProjectSection() {
       return (
