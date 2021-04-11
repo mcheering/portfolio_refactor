@@ -1,4 +1,5 @@
 import './App.css'
+import { BrowserRouter, Route } from 'react-router-dom';
 import Header from './components/Header'
 import Jumbotron from './components/Jumbotron'
 import BackgroundSection from './components/BackgroundInfoSection'
@@ -12,13 +13,18 @@ import 'materialize-css';
 function App() {
   return (
     <div className='App'>
-      <Header />
-      <Jumbotron />
-      <BackgroundSection />
-      <ProjectSectionBanner />
-      <ProjectSection />
-      <ContactSectionBanner />
-      <Footer />
+      <BrowserRouter>
+        <Route path="/">
+          <Header />
+          <Jumbotron />
+          <BackgroundSection />
+          <ProjectSectionBanner />
+          <ProjectSection />
+          <ContactSectionBanner />
+          <Footer />
+        </Route>
+      </BrowserRouter>
+
     </div>
   );
 }
