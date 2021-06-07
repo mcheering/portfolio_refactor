@@ -21,7 +21,7 @@ function Footer() {
                                                 href="https://www.linkedin.com/in/matthew-heering-70525998/">LinkedIn
                                           </a><i className="fab fa-linkedin"></i>
                                           </li>
-                                          <li><a className="white-text" href="assets/Full_Stack_Web_Dev_Resume.pdf"
+                                          <li><a className="white-text" href="../images/Full_Stack_Web_Dev_Resume.pdf"
                                                 download>Resume </a><i className="far fa-file"></i></li>
                                           <li><a className="white-text" href="https://twitter.com/matthew_heering">Twitter </a><i
                                                 className="fab fa-twitter"></i></li>
