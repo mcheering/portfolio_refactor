@@ -18,7 +18,7 @@ function Footer() {
                                     <h5 className="white-text">Connect</h5>
                                     <ul>
                                           <li><a className="white-text"
-                                                href="https://www.linkedin.com/in/matthew-heering-70525998/">LinkedIn
+                                                href="www.linkedin.com/in/matthew-heering">LinkedIn
                                           </a><i className="fab fa-linkedin"></i>
                                           </li>
                                           <li><a className="white-text" href="https://drive.google.com/file/d/1XuJIxMkoLZv43gvvm35Gp9rfVY5RPxa5/view?usp=sharing"
